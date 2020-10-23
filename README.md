@@ -1,11 +1,9 @@
-## Kucingpedia
+## Kucing & Anjing Pedia
 
-Contoh aplikasi android sederhana dengan 1 activity yang mendemonstrasikan:
-* LinearLayout dengan orientasi vertikal dan horizontal,
-* Penggunaan drawables, 
-* Akses view dari activity
-* Event Listener pada Button 
+Contoh aplikasi android sederhana dengan 2 activity yang mendemonstrasikan cara pindah screen dari 1 activity ke activity lainnya. 
 
-![Kucingpedia](kucingpedia.gif)
+Merupakan kelanjutan dari contoh sebelumnya di [Kucingpedia](https://github.com/ewinsutriandi/kucingpedia)
+
+![Kucing & Anjing Pedia](catdogpedia.gif)
 
 
